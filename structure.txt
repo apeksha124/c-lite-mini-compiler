@@ -1,0 +1,38 @@
+Folder PATH listing
+Volume serial number is 00000074 76BF:675A
+C:\USERS\HP\ONEDRIVE\DESKTOP\TINYCC
+|   Folder structure.txt
+|   structure.txt
+|   
++---P1
+|       a.exe
+|       lex.yy.c
+|       lexer.l
+|       symboltable.h
+|       test.c
+|       tokens.h
+|       
++---P2
+|       a.exe
+|       lex.yy.c
+|       lexl.l
+|       myparser.exe
+|       parser.tab.c
+|       parser.tab.h
+|       parser.y
+|       symboltable.c
+|       symboltable.h
+|       test.c
+|       
++---P3
+|       lexer.l
+|       parser.y
+|       symboltable.h
+|       test.c
+|       
+\---P4
+        lexer.l
+        parser.y
+        symboltable.h
+        test.c
+        
