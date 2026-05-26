@@ -53,10 +53,32 @@ C-Lite/
 ├── P2/                    # Parser + Symbol table
 ├── P3/                    # Advanced compiler phase
 ├── P4/                    # Additional compiler implementation
+├── screenshots/
+│   ├── output1.png
+│   ├── output2.png
+│   ├── ui.png
 │
 └── structure.txt          # Project structure details
 
 ---
+
+# Screenshots 📸
+
+## Main GUI Interface
+
+![GUI Interface](screenshots/ui.png)
+
+---
+
+## Compiler Output
+
+![Compiler Output](screenshots/output1.png)
+
+---
+
+## Parser / Symbol Table Output
+
+![Parser Output](screenshots/output2.png)
 
 # How It Works ⚙️
 
