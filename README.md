@@ -66,19 +66,19 @@ C-Lite/
 
 ## Main GUI Interface
 
-![GUI Interface](screenshots/ui.png)
+![GUI Interface](screenshot/ui.png)
 
 ---
 
 ## Compiler Output
 
-![Compiler Output](screenshots/output1.png)
+![Compiler Output](screenshot/output1.png)
 
 ---
 
 ## Parser / Symbol Table Output
 
-![Parser Output](screenshots/output2.png)
+![Parser Output](screenshot/output2.png)
 
 # How It Works ⚙️
 
