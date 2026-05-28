@@ -62,24 +62,6 @@ C-Lite/
 
 ---
 
-# Screenshots 📸
-
-## Main GUI Interface
-
-![GUI Interface](screenshot/ui.png)
-
----
-
-## Compiler Output
-
-![Compiler Output](screenshot/output1.png)
-
----
-
-## Parser / Symbol Table Output
-
-![Parser Output](screenshot/output2.png)
-
 # How It Works ⚙️
 
 1. User writes or loads C code into the editor.
